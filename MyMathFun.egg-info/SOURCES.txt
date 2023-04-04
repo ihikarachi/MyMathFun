@@ -1,0 +1,8 @@
+README.md
+setup.py
+MyMathFun/__init__.py
+MyMathFun/code.py
+MyMathFun.egg-info/PKG-INFO
+MyMathFun.egg-info/SOURCES.txt
+MyMathFun.egg-info/dependency_links.txt
+MyMathFun.egg-info/top_level.txt
